@@ -1,0 +1,16 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="D:\WORK\01_Projects\1_Web\1_Laravel\asika" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="D:\WORK\01_Projects\1_Web\1_Laravel" />
+      </list>
+    </option>
+  </component>
+</application>
