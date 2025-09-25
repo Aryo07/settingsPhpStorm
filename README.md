@@ -10,6 +10,13 @@ Repository ini berisi file ZIP yang berisi konfigurasi dan pengaturan untuk PhpS
 4. Pilih pengaturan yang ingin diimpor (atau centang semua untuk mengimpor seluruh pengaturan).
 5. Klik **OK** dan restart PhpStorm jika diminta.
 
+## Dasar Setup (Jika Ada Settings yang Tidak Berfungsi)
+Jika ada pengaturan yang tidak berfungsi setelah import, pastikan Anda sudah menggunakan rekomendasi berikut:
+1. 🎨 PhpStorm theme: https://plugins.jetbrains.com/plugin/20315-owl-darker-theme
+2. 🎨 PhpStorm icons: https://plugins.jetbrains.com/plugin/10044-atom-material-icons
+3. ✒️ Font: https://philpl.gumroad.com/l/dank-mono
+4. 🎨 Plugin "Simple Titles": https://plugins.jetbrains.com/plugin/7750-simple-titles
+
 ## Catatan
 - Disarankan untuk melakukan backup pengaturan lama sebelum mengimpor.
 - Pengaturan yang diimpor akan langsung diterapkan setelah proses selesai.
